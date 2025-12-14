@@ -15,7 +15,7 @@ let chatHistory = [
 	{
 		role: "assistant",
 		content:
-			"مرحبا بك    مع خدمة الذكاء الصناعي من  منصة الشرق الاوسط",
+			"مرحبا بك    مع مساعد الذكاء الصناعي من  منصة الشرق الاوسط",
 	},
 ];
 let isProcessing = false;
